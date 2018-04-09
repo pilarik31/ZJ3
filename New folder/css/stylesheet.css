@@ -1,0 +1,10 @@
+h1
+{
+  color: white;
+  border: 1px black solid;
+  border-radius: 50%;
+  display: block;
+  width: 10%;
+  padding: 5%;
+  background-color: black;
+}
