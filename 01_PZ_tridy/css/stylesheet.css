@@ -1,0 +1,29 @@
+p
+{
+  font-size: 16px;
+}
+
+.text-align-center
+{
+  text-align: center;
+}
+
+.text-align-left
+{
+  text-align: left
+}
+
+.color-red
+{
+  color: red;
+}
+
+.first-letter-cap
+{
+  text-transform: capitalize;
+}
+
+.word-spacing
+{
+  word-spacing: 3px;
+}

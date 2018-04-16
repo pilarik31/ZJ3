@@ -1,0 +1,79 @@
+#nav
+{
+  float: right;
+  width: 60%;
+  display: block;
+  position: relative;
+}
+
+#nav li
+{
+  float: left;
+  width: 24%;
+  display: block;
+  margin: 0 0 0 1%;
+  position: relative;
+}
+
+#image
+{
+  float: right;
+  width: 25%;
+  min-height: 100px;
+  text-align: right;
+}
+
+#left
+{
+  position: relative;
+  width: 30%;
+  float: left;
+}
+
+#center
+{
+  position: relative;
+  width: 30%;
+  float: left;
+  margin-left: 5%;
+}
+#right
+{
+  position: relative;
+  width: 30%;
+  float: right;
+}
+
+#text
+{
+  float: left;
+  width: 70%;
+  font-style: italic;
+  font-size: 20px;
+}
+
+#logo
+{
+  width: 30%;
+  float: left;
+}
+#top
+{
+  position: relative;
+  width: 100%;
+}
+
+#main
+{
+  position: relative;
+  width: 100%;
+  clear: both;
+
+}
+
+#sloupce
+{
+  width: 100%;
+  clear: both;
+  position: relative;
+}
