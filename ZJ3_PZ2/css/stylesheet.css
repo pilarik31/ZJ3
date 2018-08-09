@@ -1,0 +1,87 @@
+header
+{
+    background-color: #5200cc;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.white{color: white;}
+
+.light-blue {color: lightblue;}
+
+#menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#menu li 
+{
+    display: inline;
+    float: left;
+}
+
+#menu li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#menu li a:hover
+{
+    background-color: #111;
+}
+
+.rpa
+{
+    margin: 0;
+    padding: 0;
+}
+
+.left
+{
+    margin-left: 20%;
+    float: left;
+}
+
+/*      */
+
+
+
+#signin
+{
+    display: block;
+    float: right;
+    margin-right: 10%;
+    
+}
+
+#signin-submit
+{
+    color: #fff;
+    background-color: #4CAF50;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #999;
+}
+#signin-submit:hover{background-color: #3e8e41;}
+#signin-submit:active
+{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translate(4px);
+}
+
+#signin-help {color: white; margin: 0;}
+#signin-help a{color: lightblue;}
